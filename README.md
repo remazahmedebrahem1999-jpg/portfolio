@@ -13,6 +13,6 @@ This portfolio presents selected work from the course demonstrating my growth in
 ## 📂 Portfolio Sections
 
 - [About Me](portfolio.md)
-- [Projects](projects.md)
+  https://github.com/remazahmedebrahem1999-jpg/portfolio/blob/main/My%20file%20%20(1).pdf
 - [Non-Technical Explanation](non-tech.md)
 - [Self Reflection](reflection.md)
